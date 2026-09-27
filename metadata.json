@@ -1,0 +1,7 @@
+{
+  "name": "Salon d'Emma - 銀座ラウンジ",
+  "description": "銀座の最高級クラブのママ「エマ」との魅惑的でツンデレな語らいを楽しむプレミアム・バー＆ラウンジ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
